@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuyBritish - Khai Bui
 - 🌱 I’m an Undergraduate student at UW-Madison majoring in Computer Science & Data Science.
-- 👀 I’m interested in DSA, software engineering, and web development.
+- 👀 I’m interested in DSA, software engineering, web development, and machine learning.
 - 💞️ I’m looking to collaborate on interesting & informative programming projects
 - 📫 How to reach me: kmb1269@gmail.com
 
