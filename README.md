@@ -4,6 +4,8 @@
 <hr>
 <a><img width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/8uYzXfxgXZZw9Em2Ok/giphy.gif"></a>
 
+### 🙋‍♂️ About me:
+
 - 🌱 I’m an Undergraduate student at UW-Madison majoring in Computer Science & Data Science.
 
 - 👀 I’m interested in DSA, software engineering, web development, and machine learning.
