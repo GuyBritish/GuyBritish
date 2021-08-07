@@ -17,6 +17,8 @@
 
 - LinkedIn: [Khai Bui](https://www.linkedin.com/in/khai-m-bui)
 
+- Facebook: [Khai Bui](https://www.facebook.com/profile.php?id=100011492180520)
+
 
 <!---
 GuyBritish/GuyBritish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
