@@ -13,11 +13,9 @@
 - 💞️ I’m looking to collaborate on interesting & informative programming projects
 ### 📫 You can reach me at:
 
-- Email: [kmb1269@gmail.com](mailto:kmb1269@gmail.com) 
-
-- LinkedIn: [Khai Bui](https://www.linkedin.com/in/khai-m-bui)
-
-- Facebook: [Khai Bui](https://www.facebook.com/profile.php?id=100011492180520)
+  <a href="mailto:kmb1269@gmail.com"> <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /> </a>
+  <a href="https://www.linkedin.com/in/khai-m-bui"> <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
+  <a href="https://www.facebook.com/profile.php?id=100011492180520"> <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg"/> </a>
 
 
 <!---
