@@ -15,7 +15,8 @@
 
   <a href="mailto:kmb1269@gmail.com"> <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /> </a>
   <a href="https://www.linkedin.com/in/khai-m-bui"> <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> </a>
-  <a href="https://www.facebook.com/profile.php?id=100011492180520"> <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg"/> </a>
+  <a href="https://www.facebook.com/profile.php?id=100011492180520"> <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" /> </a>
+  <a href="https://discord.com/users/Khai#8792/"> <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" /> </a>
 
 
 <!---
