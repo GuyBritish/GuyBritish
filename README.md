@@ -2,7 +2,7 @@
 
 <p align="center"><a align="center" href="https://github.com/GuyBritish"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGuyBritish&count_bg=%233DB6C8&title_bg=%23807E7E&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a></p>
 <hr>
-<a><img width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/8uYzXfxgXZZw9Em2Ok/giphy.gif"></a>
+<a><img width="60%" align="right" alt="GIF" src="https://media.giphy.com/media/8uYzXfxgXZZw9Em2Ok/giphy.gif"></a>
 
 ### 🙋‍♂️ About me:
 
