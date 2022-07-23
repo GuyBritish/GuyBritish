@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in DSA, software engineering, web development, and machine learning.
 
-- 💞️ I’m looking to collaborate on interesting & informative programming projects
+- 💞️ I’m looking to collaborate on interesting & informative programming projects.
 ### 📫 You can reach me at:
 
   <a href="mailto:kmb1269@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
